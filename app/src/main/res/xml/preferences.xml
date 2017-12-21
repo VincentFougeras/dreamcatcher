@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:key="pref_key_dark_mode_switch"
+        android:title="@string/pref_dark_mode"
+        android:summaryOff="@string/pref_dark_mode_off"
+        android:summaryOn="@string/pref_dark_mode_on"
+        android:defaultValue="false">
+    </SwitchPreference>
+    <SwitchPreference
+        android:key="pref_key_notification_switch"
+        android:title="@string/pref_notification"
+        android:summaryOn="@string/pref_notification_on"
+        android:defaultValue="false">
+    </SwitchPreference>
+</PreferenceScreen>

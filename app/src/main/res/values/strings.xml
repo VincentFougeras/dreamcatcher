@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Dream Catcher</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_sort_date">Trier par date</string>
+    <string name="action_sort_title">Trier par titre</string>
+    <string name="title_activity_details_dream">Détails du rêve</string>
+    <string name="title_activity_new_dream">Nouveau rêve</string>
+    <string name="new_dream_title">Titre (optionnel)</string>
+    <string name="new_dream_content">Contenu</string>
+    <string name="new_dream_validate">Ajouter le rêve</string>
+    <string name="menu_listview_update">Modifier</string>
+    <string name="menu_listview_delete">Supprimer</string>
+    <string name="app_action_delete_dream">Le rêve a été supprimé.</string>
+    <string name="update_dream_validate">Modifier le rêve</string>
+    <string name="title_activity_update_dream">Modifier le rêve</string>
+    <string name="snackbar_deleted_dream">Le rêve a été supprimé.</string>
+    <string name="undo">Annuler</string>
+    <string name="menu_listview_share">Partager</string>
+    <string name="share_dream">Partager le rêve</string>
+    <string name="search_title">Recherche</string>
+    <string name="search_hint">Rerchercher parmi les rêves</string>
+    <string name="initial_dream_title">Bienvenue !</string>
+    <string name="initial_dream_content">Comment utiliser cette application :</string>
+    <string name="pref_category_others">Autres</string>
+    <string name="pref_dark_mode_off">Thème sombre désactivé</string>
+    <string name="pref_dark_mode_on">Thème sombre activé</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="pref_dark_mode">Changer le thème</string>
+    <string name="pref_notification">Me rappeler d\'écrire mon rêve</string>
+    <string name="pref_notification_on">Une notification sera envoyée à 5:00</string>
+</resources>
